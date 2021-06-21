@@ -1,0 +1,10 @@
+
+body {
+  background-color: blanchedalmond;
+}
+hr {
+  border-style: dotted none none;
+  width: 15%;
+  border-width: 10px;
+  border-color: brown;
+}
